@@ -1,6 +1,9 @@
 ![logo1](https://github.com/AniMoons-SPTech/MoniToons/assets/89167232/ba1446d7-4927-4904-a5ef-ec6b7780fe46)
 
-Conheça o MoniToons o sistema de monitoração de Hardware de computadores e notebooks para animadores!
+Conheça a Animoons somos uma empresa independente com um objetivo de ajudar a comunidade de animadores!
+
+## **Monitoons**
+O MoniToons é o nosso sistema de monitoração de Hardware de computadores e notebooks para animadores!
 
 
 ## **Tecnologias utilizada**
