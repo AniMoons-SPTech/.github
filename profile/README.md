@@ -10,7 +10,9 @@ O MoniToons é o nosso sistema de monitoração de Hardware de computadores e no
 
 **Front-end:** HTML, CSS e JavaScript 
 
-**Back-end:** Java e MySQL
+**Back-end:** Java 
+
+**Banco de Dados:** MySQL
 
 ## **Documentação de cores**
 
