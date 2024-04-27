@@ -30,5 +30,5 @@ O MoniToons é o nosso sistema de monitoração de Hardware de computadores e no
 - [@gabriella-roman](https://github.com/gabriella-roman)
 - [@JPedroDuarte23](https://github.com/JPedroDuarte23)
 - [@AikoJu](https://github.com/AikoJu)
-- [@MatheusHenrique005](https://github.com/MatheusHenrique005)
+- [@TheusBr05](https://github.com/TheusBr05)
 - [@Voltty](https://github.com/Voltty) 
